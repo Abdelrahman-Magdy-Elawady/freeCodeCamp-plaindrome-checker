@@ -1,0 +1,6 @@
+{
+  "liveServer.settings.fullReload": true,
+  "css.lint.unknownAtRules": "ignore",
+  "css.lint.unknownVendorSpecificProperties": "warning",
+  "liveServer.settings.port": 5501
+}
