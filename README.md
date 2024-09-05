@@ -22,7 +22,7 @@ Note: You'll need to remove all non-alphanumeric characters (punctuation, spaces
 
 ### Screenshot
 
-![](imgs\desktop.png)
+![](imgs/desktop.png)
 
 ### Links
 
